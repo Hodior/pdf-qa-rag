@@ -1,0 +1,4 @@
+gradio
+markitdown[pdf]
+numpy
+google-generativeai
